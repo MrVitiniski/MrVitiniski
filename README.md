@@ -1,24 +1,24 @@
 # 👨‍💻 Thomaz Vitiniski
 
-### Desenvolvedor Full-stack & Criador da **VN Systems**
+### Full-stack Developer & Creator of **VN Systems**
 
-Transformo processos complexos e negócios locais em experiências digitais de alto impacto. Meu foco é unir **tecnologia de ponta**, **design premium** e **estratégia de conversão**.
+I transform complex processes and local businesses into high-impact digital experiences. My focus is on merging **cutting-edge technology**, **premium design**, and **conversion-driven strategies**.
 
-### 🚀 No que estmos focados atualmente:
-- 🏗️ Construção de **Sistemas ERP** modulares para gestão industrial.
-- ✨ Criação de Landing Pages de alta conversão com **animações GSAP**.
-- 📱 Desenvolvimento **Mobile-First** com foco em performance e responsividade extrema.
+### 🎯 Currently Focused On:
+- 🏗️  Building modular ERP Systems for industrial management and streamlined workflows.
+- ✨ Crafting high-conversion Landing Pages powered by **GSAP animations** and premium interactions.
+- 📱 **Mobile-First** development with a core focus on performance and extreme responsiveness.
 
 ---
 
 
-## 📫 Vamos construir algo incrível?
-- **LinkedIn:** https://linkedin.com/in/mrvitiniski
-- **WhatsApp:** +55 48 99199-8998
+## 📫 Let's Build Something Amazing?
+- **LinkedIn:** [linkedin.com/in/mrvitiniski](https://linkedin.com/in/mrvitiniski)
+- **WhatsApp:** [+55 48 99199-8998](https://wa.me
 - **Email:** tvitiniski@gmail.com
 
-
-*"Onde a tecnologia encontra a eficiência."*
+# VN Systems
+ *"Where technology meets efficiency."*
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -158,6 +158,57 @@ Transformo processos complexos e negócios locais em experiências digitais de a
   />
 
 </p>
+
+
+
+# 👨‍💻 Thomaz Vitiniski
+
+### Full-stack Developer & Creator of **VN Systems**
+
+I transform complex processes and local businesses into high-impact digital experiences. My focus is on merging **cutting-edge technology**, **premium design**, and **conversion-driven strategies**.
+
+### 🎯 Currently Focused On:
+- 🏗️ Building modular ERP Systems for industrial management and streamlined workflows.
+- ✨ Crafting high-conversion Landing Pages powered by **GSAP animations** and premium interactions.
+- 📱 **Mobile-First** development with a core focus on performance and extreme responsiveness.
+
+---
+
+## 📫 Let's Build Something Amazing?
+- **LinkedIn:** [linkedin.com/in/mrvitiniski](https://linkedin.com/in/mrvitiniski)
+- **WhatsApp:** [+55 48 99199-8998](https://wa.me)
+- **Email:** tvitiniski@gmail.com
+
+# VN Systems
+*"Where technology meets efficiency."*
+
+---
+
+### 🤖 Languages and Technologies
+
+<p align="left">
+  <img title="HTML" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right: 10px;" />
+  <img title="CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right: 10px;" />
+  <img title="JavaScript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right: 10px;" />
+  <img title="TypeScript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right: 10px;" />
+  <img title="React" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right: 10px;" />
+  <img title="Next.js" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right: 10px;" />
+  <img title="Tailwind" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right: 10px;" />
+  <img title="PHP" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="padding-right: 10px;" />
+  <img title="Laravel" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" style="padding-right: 10px;" />
+  <img title="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right: 10px;" />
+  <img title="Git" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
+<br/>
+
+### 📊 Statistics
+
+<p align="left">
+  <img height="180" src="https://vercel.app" style="padding-right: 10px;" />
+  <img height="180" src="https://vercel.app" />
+</p>
+
 
 
 
