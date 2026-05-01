@@ -147,7 +147,7 @@ I transform complex processes and local businesses into high-impact digital expe
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MrVitiniski&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://vercel.app" 
   />
 
   <img 
@@ -157,6 +157,7 @@ I transform complex processes and local businesses into high-impact digital expe
     src="https://vercel.app" 
   />
 </p>
+
 
 
 
